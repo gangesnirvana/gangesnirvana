@@ -133,7 +133,7 @@
 		.hero__background{bottom:0;left:0;overflow:hidden;position:absolute;right:0;top:0}
 		.hero__background video{top:0;height:100%;position:absolute;width:auto}
 		.hero__content{height:371px;position:relative;z-index:2}
-		.hero__content-footer{background-color:#1C4383;bottom:0;left:0;padding-bottom:3px;padding-top:30px;position:absolute;right:0}
+		.hero__content-footer{bottom:0;left:0;padding-bottom:3px;padding-top:30px;position:absolute;right:0}
 
 		@media (min-width: 768px)
 			{
